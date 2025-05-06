@@ -5,6 +5,8 @@
 \__ \ (__| |   <| | |_  | |  __/ (_| | |  | | | |
 |___/\___|_|_|\_\_|\__| |_|\___|\__,_|_|  |_| |_|
 ```
+**NOTE: Each ``.ipynb`` Python file has a corresponding ``README.md`` file which takes the user through each step along with notes. Make sure to refer to it for better understanding**
+
 Scikit-learn (sklearn) is a popular and widely used open-source Python library for machine learning and data modeling. It provides a comprehensive set of tools and algorithms for various tasks, including classification, regression, clustering, and data preprocessing. Scikit-learn is built upon other essential Python libraries like NumPy, SciPy, and matplotlib. 
 Key features and functionalities:
 

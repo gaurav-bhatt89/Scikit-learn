@@ -7,7 +7,7 @@
   5. Applying Decision Tree estimator and evaluating its predction accuracy
   6. Applying Random Forest estimator and evaluating its prediction accuracy
 
-### GitHub Notebook - [Link](https://github.com/gaurav-bhatt89/Scikit-learn/blob/main/Decision_Tree%2BRandom_Forest_Loan_Dataset.ipynb)
+### GitHub Notebook - [Link](https://github.com/gaurav-bhatt89/Scikit-learn/blob/main/Decision_Tree_and_Random_Forest_Loan_Dataset.ipynb)
 ### NBViewer - [Link](https://nbviewer.org/github/gaurav-bhatt89/Scikit-learn/blob/main/Decision_Tree%2BRandom_Forest_Loan_Dataset.ipynb)
 ```python
 ## Lets import necessary python libraries
