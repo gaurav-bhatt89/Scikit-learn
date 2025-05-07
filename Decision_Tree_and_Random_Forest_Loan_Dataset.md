@@ -1,6 +1,6 @@
 # This below Python code executed in Jupyter Notebook by [Anaconda Navigator](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anaconda.com/products/navigator&ved=2ahUKEwiT5K_m_IuNAxWce_UHHVooNSwQFnoECBkQAQ&usg=AOvVaw2FiVm4Knmhe7xplbtYwLdO) 
 ## We will learn to 
-  1. Load an existing publicly available 'Loan Defaults' dataset
+  1. Load an existing publicly available ['Loan Paid'](https://github.com/gaurav-bhatt89/Datasets/blob/main/Loan_Data_DT_RF.csv) dataset
   2. Exploratory Data Analysis
   3. Data Cleansing / Wrangling
   4. Feature Consolidation / Engineering
